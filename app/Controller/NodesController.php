@@ -6,8 +6,6 @@ App::uses('AppController', 'Controller');
  * @property Node $Node
  */
 class NodesController extends AppController {
-
-
 /**
  * index method
  *
