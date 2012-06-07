@@ -16,6 +16,10 @@ class NodesController extends AppController {
 		$this->set('nodes', $this->paginate());
 	}
 
+	public function plaste(){
+		
+	}
+
 /**
  * view method
  *
