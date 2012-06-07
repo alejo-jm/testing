@@ -17,7 +17,7 @@ class NodesController extends AppController {
 	}
 
 	public function plaste(){
-		
+		echo 'some big json';
 	}
 
 /**
